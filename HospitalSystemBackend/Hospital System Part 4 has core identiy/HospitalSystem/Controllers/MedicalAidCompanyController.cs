@@ -19,6 +19,7 @@ namespace HospitalSystem.Controllers
         }
 
         [HttpGet]
+        [Route("GetAllMedicalAidCompanies")]
         public IActionResult GetAllMedicalAidCompany()
         {
             return Ok(dbcontext.MedicalAidCompanies);

@@ -8765,11 +8765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\HospitalSystem.csproj",
+      "projectUniqueName": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\HospitalSystem.csproj",
       "projectName": "HospitalSystem",
-      "projectPath": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\HospitalSystem.csproj",
+      "projectPath": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\HospitalSystem.csproj",
       "packagesPath": "C:\\Users\\aviwe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\obj\\",
+      "outputPath": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

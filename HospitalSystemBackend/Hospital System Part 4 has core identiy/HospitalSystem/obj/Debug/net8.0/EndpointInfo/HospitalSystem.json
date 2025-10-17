@@ -339,7 +339,7 @@
         }
       }
     },
-    "/api/MedicalAidCompany": {
+    "/api/MedicalAidCompany/GetAllMedicalAidCompanies": {
       "get": {
         "tags": [
           "MedicalAidCompany"
@@ -349,7 +349,9 @@
             "description": "OK"
           }
         }
-      },
+      }
+    },
+    "/api/MedicalAidCompany": {
       "post": {
         "tags": [
           "MedicalAidCompany"
@@ -464,7 +466,7 @@
         }
       }
     },
-    "/api/Patient": {
+    "/api/Patient/GetAllPatients": {
       "get": {
         "tags": [
           "Patient"
@@ -474,7 +476,9 @@
             "description": "OK"
           }
         }
-      },
+      }
+    },
+    "/api/Patient/AddPatient": {
       "post": {
         "tags": [
           "Patient"
@@ -832,6 +836,11 @@
           },
           "medicalAid": {
             "type": "boolean"
+          },
+          "medicalAidId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -1118,6 +1127,11 @@
           },
           "medicalAid": {
             "type": "boolean"
+          },
+          "medicalAidId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
           }
         },
         "additionalProperties": false

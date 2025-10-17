@@ -18,12 +18,14 @@ namespace HospitalSystem.Controllers
         }
 
         [HttpGet]
+        [Route("GetAllPatients")]
         public IActionResult GetAllPatient()
         {
             return Ok(dbcontext.Patients);
         }
 
         [HttpPost]
+        [Route("AddPatient")]
         public IActionResult AddPatient(AddPatientDto addPatientDto)
         {
             var newPatient = new Patient()
@@ -34,8 +36,9 @@ namespace HospitalSystem.Controllers
                 HomeAddress = addPatientDto.HomeAddress,
                 Email = addPatientDto.Email,
                 Phone = addPatientDto.Phone,
-                MedicalAid = addPatientDto.MedicalAid
-                
+                MedicalAid = addPatientDto.MedicalAid,
+                MedicalAidId = addPatientDto.MedicalAidId
+
             };
 
             dbcontext.Patients.Add(newPatient);

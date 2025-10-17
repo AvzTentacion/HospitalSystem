@@ -1,16 +1,6 @@
 [
   {
     "ContainingType": "HospitalSystem.Controllers.MedicalAidCompanyController",
-    "Method": "GetAllMedicalAidCompany",
-    "RelativePath": "api/MedicalAidCompany",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "HospitalSystem.Controllers.MedicalAidCompanyController",
     "Method": "AddMedicalAidCompany",
     "RelativePath": "api/MedicalAidCompany",
     "HttpMethod": "POST",
@@ -79,29 +69,13 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "HospitalSystem.Controllers.PatientController",
-    "Method": "GetAllPatient",
-    "RelativePath": "api/Patient",
+    "ContainingType": "HospitalSystem.Controllers.MedicalAidCompanyController",
+    "Method": "GetAllMedicalAidCompany",
+    "RelativePath": "api/MedicalAidCompany/GetAllMedicalAidCompanies",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "HospitalSystem.Controllers.PatientController",
-    "Method": "AddPatient",
-    "RelativePath": "api/Patient",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "addPatientDto",
-        "Type": "HospitalSystem.Models.PatientDTO.AddPatientDto",
-        "IsRequired": true
-      }
-    ],
     "ReturnTypes": []
   },
   {
@@ -155,6 +129,32 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HospitalSystem.Controllers.PatientController",
+    "Method": "AddPatient",
+    "RelativePath": "api/Patient/AddPatient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addPatientDto",
+        "Type": "HospitalSystem.Models.PatientDTO.AddPatientDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HospitalSystem.Controllers.PatientController",
+    "Method": "GetAllPatient",
+    "RelativePath": "api/Patient/GetAllPatients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

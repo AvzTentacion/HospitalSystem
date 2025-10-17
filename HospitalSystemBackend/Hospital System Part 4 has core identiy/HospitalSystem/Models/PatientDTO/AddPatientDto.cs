@@ -15,5 +15,7 @@
         public required string Phone { get; set; }
 
         public required bool MedicalAid { get; set; }
+
+        public Guid? MedicalAidId { get; set; }
     }
 }

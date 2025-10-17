@@ -20,6 +20,7 @@ namespace HospitalSystem.Models
 
         public required bool MedicalAid { get; set; }
 
+
         //ForeignKey
         public Guid? MedicalAidId { get; set; }
         public MedicalAidCompany? SelectedAid {  get; set; }

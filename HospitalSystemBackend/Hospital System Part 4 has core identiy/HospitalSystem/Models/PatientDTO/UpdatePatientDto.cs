@@ -16,6 +16,8 @@
 
         public required bool MedicalAid { get; set; }
 
-       
+        public Guid? MedicalAidId { get; set; }
+
+
     }
 }

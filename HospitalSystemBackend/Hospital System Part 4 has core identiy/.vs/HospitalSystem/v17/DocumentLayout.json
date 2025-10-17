@@ -1,53 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\",
+  "WorkspaceRootPath": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\controllers\\visitrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\controllers\\visitrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospitalsystemfullstack\\hospitalsystembackend\\hospital system part 4 has core identiy\\hospitalsystem\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospitalsystemfullstack\\hospitalsystembackend\\hospital system part 4 has core identiy\\hospitalsystem\\models\\patientdto\\updatepatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\patientdto\\updatepatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospitalsystemfullstack\\hospitalsystembackend\\hospital system part 4 has core identiy\\hospitalsystem\\models\\patientdto\\addpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\patientdto\\addpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospitalsystemfullstack\\hospitalsystembackend\\hospital system part 4 has core identiy\\hospitalsystem\\models\\medicalaidcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\medicalaidcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospitalsystemfullstack\\hospitalsystembackend\\hospital system part 4 has core identiy\\hospitalsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s230134165\\Desktop\\Hospital System Part 2 done most etities gonna move on to authorization and role amangement - Copy\\HospitalSystem\\Migrations\\20251015114031_changed user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\models\\visitrecorddto\\updatevisitrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\models\\visitrecorddto\\updatevisitrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospital system part 3 api endpoints working with core identity\\hospitalsystem\\migrations\\20251016082536_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\migrations\\20251016082536_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|c:\\users\\aviwe\\downloads\\one more\\hospitalsystemfullstack\\hospitalsystembackend\\hospital system part 4 has core identiy\\hospitalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCCC4BC-9E59-4357-B737-E9F7795D2780}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -76,153 +57,77 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "HospitalSystem\\appsettings.json",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\appsettings.json",
-              "RelativeToolTip": "HospitalSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-16T08:27:41.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20251016082536_initial migration.cs",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Migrations\\20251016082536_initial migration.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Migrations\\20251016082536_initial migration.cs",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Migrations\\20251016082536_initial migration.cs",
-              "RelativeToolTip": "HospitalSystem\\Migrations\\20251016082536_initial migration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UpdatePatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Models\\PatientDTO\\UpdatePatientDto.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\PatientDTO\\UpdatePatientDto.cs",
+              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Models\\PatientDTO\\UpdatePatientDto.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\PatientDTO\\UpdatePatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T08:25:37.093Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\PatientController.cs",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "HospitalSystem\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAcwAEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T08:21:45.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20251015114031_changed user.cs",
-              "DocumentMoniker": "C:\\Users\\s230134165\\Desktop\\Hospital System Part 2 done most etities gonna move on to authorization and role amangement - Copy\\HospitalSystem\\Migrations\\20251015114031_changed user.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\s230134165\\Desktop\\Hospital System Part 2 done most etities gonna move on to authorization and role amangement - Copy\\HospitalSystem\\Migrations\\20251015114031_changed user.cs",
-              "ToolTip": "C:\\Users\\s230134165\\Desktop\\Hospital System Part 2 done most etities gonna move on to authorization and role amangement - Copy\\HospitalSystem\\Migrations\\20251015114031_changed user.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\s230134165\\Desktop\\Hospital System Part 2 done most etities gonna move on to authorization and role amangement - Copy\\HospitalSystem\\Migrations\\20251015114031_changed user.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:40:31.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdateVisitRecordDto.cs",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Models\\VisitRecordDTO\\UpdateVisitRecordDto.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Models\\VisitRecordDTO\\UpdateVisitRecordDto.cs",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Models\\VisitRecordDTO\\UpdateVisitRecordDto.cs",
-              "RelativeToolTip": "HospitalSystem\\Models\\VisitRecordDTO\\UpdateVisitRecordDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:33:05.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Program.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Program.cs",
-              "RelativeToolTip": "HospitalSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:19:17.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T18:16:25.953Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VisitRecordController.cs",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Controllers\\VisitRecordController.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\VisitRecordController.cs",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Controllers\\VisitRecordController.cs",
-              "RelativeToolTip": "HospitalSystem\\Controllers\\VisitRecordController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Title": "AddPatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Models\\PatientDTO\\AddPatientDto.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\PatientDTO\\AddPatientDto.cs",
+              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Models\\PatientDTO\\AddPatientDto.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\PatientDTO\\AddPatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:14:07.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Models\\Roles.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Models\\Roles.cs",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Models\\Roles.cs",
-              "RelativeToolTip": "HospitalSystem\\Models\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:07:52.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Models\\User.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Models\\User.cs",
-              "RelativeToolTip": "HospitalSystem\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:02:04.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "HospitalSystem\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "HospitalSystem\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-15T11:16:23.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "HospitalSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:16:54.825Z"
+              "WhenOpened": "2025-10-16T18:16:18.915Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HospitalDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Data\\HospitalDbContext.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Data\\HospitalDbContext.cs",
-              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\Hospital System Part 3 api endpoints working with core identity\\HospitalSystem\\Data\\HospitalDbContext.cs",
-              "RelativeToolTip": "HospitalSystem\\Data\\HospitalDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:01:59.831Z"
+              "WhenOpened": "2025-10-16T18:13:45.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HospitalSystem\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:30:59.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Program.cs",
+              "RelativeToolTip": "HospitalSystem\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:21:48.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicalAidCompany.cs",
+              "DocumentMoniker": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Models\\MedicalAidCompany.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Models\\MedicalAidCompany.cs",
+              "ToolTip": "C:\\Users\\aviwe\\Downloads\\One more\\HospitalSystemFullStack\\HospitalSystemBackend\\Hospital System Part 4 has core identiy\\HospitalSystem\\Models\\MedicalAidCompany.cs",
+              "RelativeToolTip": "HospitalSystem\\Models\\MedicalAidCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:20:51.086Z"
             }
           ]
         },
